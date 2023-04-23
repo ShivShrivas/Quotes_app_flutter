@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53995718169",
+    "firebase_url": "https://myquotesappshiv-default-rtdb.firebaseio.com",
+    "project_id": "myquotesappshiv",
+    "storage_bucket": "myquotesappshiv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53995718169:android:1dc38bb41da5a662080c88",
+        "android_client_info": {
+          "package_name": "com.tooncoder.quotes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53995718169-lfu2onlu5m549f56t7fcnsru5k682s3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8b556_H8-zhHThp3p7xu-N6nm-FaUMYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53995718169-lfu2onlu5m549f56t7fcnsru5k682s3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
